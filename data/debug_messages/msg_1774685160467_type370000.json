@@ -1,6 +1,0 @@
-{
-  "_manual_parse": true,
-  "_strings": [
-    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":false,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1764817617667,\"arouseChatScriptInfo\":[]}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1764817617677,\"extensions\":{\"itemId\":\"999562972298\",\"itemSellerId\":\"2206602993727\",\"VULCAN_CREATE_TIME\":\"1764817617670\",\"extUserType\":\"0\",\"ownerUserId\":\"2206602993727\",\"extUserId\":\"2208357686604\",\"VULCAN_SRC\":\"heracles\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i1/2206602993727/O1CN01llaAcF1dP1FEnHJap_!!4611686018427379775-53-xy_item.heic\",\"ownerUserType\":\"0\"},\"sessionId\":\"55998351021\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"55998351021\"}"
-  ]
-}

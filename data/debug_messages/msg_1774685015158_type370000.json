@@ -1,9 +1,0 @@
-{
-  "_manual_parse": true,
-  "_strings": [
-    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":false,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1769742769855,\"arouseChatScriptInfo\":[]}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1769742769000,\"extensions\":{\"squadId_2208357686604\":\"202148346\",\"extUserType\":\"0\",\"itemTitle\":\"Suno AI V5",
-    "\",\"extUserId\":\"2208357686604\",\"squadId_2196144094\":\"1015896203799\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i4/2196144094/O1CN01mklB6Y1g76c6XNls9_!!4611686018427387870-53-xy_item.heic\",\"ownerUserType\":\"0\",\"squadName_2208357686604\":\"AI",
-    "\",\"itemId\":\"1015896203799\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"202148346\\\"}\",\"itemSellerId\":\"2196144094\",\"squadName_2196144094\":\"Suno AI V5",
-    "\",\"ownerUserId\":\"2196144094\"},\"groupOwnerId\":\"2196144094\",\"sessionId\":\"57787222319\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"57787222319\"}"
-  ]
-}

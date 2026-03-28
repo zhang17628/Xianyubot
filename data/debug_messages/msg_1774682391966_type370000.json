@@ -1,9 +1,0 @@
-{
-  "_manual_parse": true,
-  "_strings": [
-    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":false,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1760409390626,\"arouseChatScriptInfo\":[]}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1760409384000,\"extensions\":{\"squadId_2208357686604\":\"925155598959\",\"extUserType\":\"0\",\"itemTitle\":\"",
-    "GeForce RTX 4070 WINDFORCE 2\",\"extUserId\":\"2000297063\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i3/O1CN01xp0hh91yegftaBLkK_!!4611686018427387212-0-fleamarket.jpg\",\"ownerUserType\":\"0\",\"squadName_2208357686604\":\"",
-    "GeForce RTX 4070 WINDFORCE 2\",\"itemId\":\"925155598959\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"126856282\\\"}\",\"itemSellerId\":\"2208357686604\",\"squadId_2000297063\":\"126856282\",\"ownerUserId\":\"2208357686604\",\"squadName_2000297063\":\"",
-    "\"},\"groupOwnerId\":\"2208357686604\",\"sessionId\":\"54543980916\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"54543980916\"}"
-  ]
-}

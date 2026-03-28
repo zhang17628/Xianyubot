@@ -1,9 +1,0 @@
-{
-  "_manual_parse": true,
-  "_strings": [
-    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":false,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1769739981820,\"arouseChatScriptInfo\":[]}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1769739981000,\"extensions\":{\"squadId_2208357686604\":\"202148346\",\"extUserType\":\"0\",\"itemTitle\":\"Mureka Ai",
-    "\",\"extUserId\":\"2208357686604\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i1/288310116/O1CN01IQpCJp1CjB3Qt7cCR_!!4611686018427380580-0-xy_item.jpg\",\"squadName_288310116\":\"Mureka Ai",
-    "\",\"ownerUserType\":\"0\",\"squadId_288310116\":\"1001267935216\",\"squadName_2208357686604\":\"AI",
-    "\",\"itemId\":\"1001267935216\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"202148346\\\"}\",\"itemSellerId\":\"288310116\",\"ownerUserId\":\"288310116\"},\"groupOwnerId\":\"288310116\",\"sessionId\":\"58008154749\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"58008154749\"}"
-  ]
-}
