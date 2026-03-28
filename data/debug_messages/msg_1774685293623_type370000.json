@@ -1,0 +1,32 @@
+{
+  "_manual_parse": true,
+  "_strings": [
+    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":true,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1765972730372,\"arouseChatScriptInfo\":[{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":56461941208,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}}],\"chatGuidance\":{\"txt\":\"",
+    "\",\"chatGuidanceIcon\":\"https://g.alicdn.com/eva-assets/900b80896b0a4a3274c8990dc76a3906/0.0.1/tmp/c839cfd/c839cfd.json\",\"icon\":\"https://g.alicdn.com/eva-assets/af2906b34860c1f3f5b1e5e5c671a966/0.0.1/tmp/a3f8232/a3f8232.json?spm=a21714.homepage.0.0.4e0a3fe0jlOeYy&file=a3f8232.json\"}}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1765972730000,\"extensions\":{\"squadId_2208357686604\":\"202036301\",\"extUserType\":\"0\",\"itemTitle\":\"LangGraph",
+    "Agent",
+    "\",\"extUserId\":\"2208357686604\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i3/O1CN019X7Rcn1aQRcA4sfS8_!!4611686018427385580-53-fleamarket.heic\",\"squadName_1080473324\":\"LangGraph",
+    "Agent",
+    "\",\"ownerUserType\":\"0\",\"squadName_2208357686604\":\"",
+    "\",\"itemId\":\"978214971202\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"202036301\\\"}\",\"itemSellerId\":\"1080473324\",\"ownerUserId\":\"1080473324\",\"squadId_1080473324\":\"978214971202\"},\"groupOwnerId\":\"1080473324\",\"sessionId\":\"56461941208\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"56461941208\"}"
+  ]
+}

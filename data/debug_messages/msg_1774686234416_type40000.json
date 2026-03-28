@@ -1,0 +1,44 @@
+{
+  "1": {
+    "1": {
+      "1": "2222114748954@goofish"
+    },
+    "2": "59093579148@goofish",
+    "3": "4027672188968.PNM",
+    "4": 0,
+    "5": 1774686233577,
+    "6": {
+      "1": 101,
+      "3": {
+        "1": "",
+        "2": "能不能给我便宜一些 可以不可以 ",
+        "3": "",
+        "4": 1,
+        "5": "{\"atUsers\":[],\"contentType\":1,\"text\":{\"text\":\"能不能给我便宜一些 可以不可以 \"}}"
+      }
+    },
+    "7": 2,
+    "8": 1,
+    "9": 0,
+    "10": {
+      "_appVersion": "7.19.90",
+      "_platform": "android",
+      "bizTag": "{\"sourceId\":\"S:1\",\"messageId\":\"ca48469985a94effa1c89b4eab45fe0b\"}",
+      "clientIp": "39.144.144.20",
+      "detailNotice": "能不能给我便宜一些 可以不可以 ",
+      "extJson": "{\"quickReply\":\"1\",\"messageId\":\"ca48469985a94effa1c89b4eab45fe0b\",\"tag\":\"u\"}",
+      "port": "59463",
+      "reminderContent": "能不能给我便宜一些 可以不可以 ",
+      "reminderNotice": "发来一条新消息",
+      "reminderTitle": "x***1",
+      "reminderUrl": "fleamarket://message_chat?itemId=1028460358996&peerUserId=2222114748954&sid=59093579148&messageId=ca48469985a94effa1c89b4eab45fe0b&adv=no",
+      "senderUserId": "2222114748954",
+      "senderUserType": "0",
+      "sessionType": "1"
+    },
+    "12": 1
+  },
+  "3": {
+    "needPush": "true"
+  }
+}

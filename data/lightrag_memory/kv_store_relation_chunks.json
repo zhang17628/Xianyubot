@@ -1,0 +1,600 @@
+{
+  "2026-03-28 16:09:42<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522"
+    ],
+    "count": 1,
+    "create_time": 1774685393,
+    "update_time": 1774685393,
+    "_id": "2026-03-28 16:09:42<SEP>对话记录"
+  },
+  "90.06元<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-dde57527770467e4cab324081b5c883e",
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27",
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 10,
+    "update_time": 1774687512,
+    "_id": "90.06元<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "全新但无盒子<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-dde57527770467e4cab324081b5c883e",
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+    ],
+    "count": 8,
+    "update_time": 1774687496,
+    "_id": "全新但无盒子<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "59093579148<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 3,
+    "update_time": 1774687512,
+    "_id": "59093579148<SEP>对话记录"
+  },
+  "2222114748954<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 2,
+    "update_time": 1774687467,
+    "_id": "2222114748954<SEP>对话记录"
+  },
+  "1028460358996<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 3,
+    "update_time": 1774687512,
+    "_id": "1028460358996<SEP>对话记录"
+  },
+  "买家<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522"
+    ],
+    "count": 1,
+    "create_time": 1774685393,
+    "update_time": 1774685393,
+    "_id": "买家<SEP>对话记录"
+  },
+  "对话记录<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-dde57527770467e4cab324081b5c883e",
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2"
+    ],
+    "count": 3,
+    "update_time": 1774686388,
+    "_id": "对话记录<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "商品描述<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-ca2c06fc063fb0369931e0ec12e20522",
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 3,
+    "update_time": 1774687467,
+    "_id": "商品描述<SEP>对话记录"
+  },
+  "Buyer<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-69d0541a7702d1b1ae4b75a61b59d73e",
+      "chunk-0a7810e8ce73a7a08f04a733b19cd6d6",
+      "chunk-a48455a3fb14056b6a1fad147bce8bc3",
+      "chunk-5f718e144b3348b94dc9ea83fb907d23",
+      "chunk-e94484e616e61ed2cf21e9a3c742d8df"
+    ],
+    "count": 5,
+    "update_time": 1774686428,
+    "_id": "Buyer<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "90.06 Yuan<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-69d0541a7702d1b1ae4b75a61b59d73e",
+      "chunk-019265b344f3200d8393db862bb4a702",
+      "chunk-0a7810e8ce73a7a08f04a733b19cd6d6",
+      "chunk-f4e6733dd784eb93252da407d8d4b638",
+      "chunk-e559d1045ed43f56bb708b1ad1ee6b1c",
+      "chunk-e94484e616e61ed2cf21e9a3c742d8df",
+      "chunk-703362a785e7534d91ea11f87c34c745",
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 8,
+    "update_time": 1774687465,
+    "_id": "90.06 Yuan<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "New Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-69d0541a7702d1b1ae4b75a61b59d73e"
+    ],
+    "count": 1,
+    "create_time": 1774685400,
+    "update_time": 1774685400,
+    "_id": "New Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Starbucks<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-69d0541a7702d1b1ae4b75a61b59d73e"
+    ],
+    "count": 1,
+    "create_time": 1774685400,
+    "update_time": 1774685400,
+    "_id": "Starbucks<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Conversation Record<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-019265b344f3200d8393db862bb4a702",
+      "chunk-f4e6733dd784eb93252da407d8d4b638",
+      "chunk-055d2da829cd0957db5c037845ea32ab",
+      "chunk-703362a785e7534d91ea11f87c34c745",
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 5,
+    "update_time": 1774687467,
+    "_id": "Conversation Record<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Conversation Record<SEP>Seller (AI Customer Service)": {
+    "chunk_ids": [
+      "chunk-019265b344f3200d8393db862bb4a702",
+      "chunk-f4e6733dd784eb93252da407d8d4b638",
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 3,
+    "update_time": 1774687465,
+    "_id": "Conversation Record<SEP>Seller (AI Customer Service)"
+  },
+  "Shipping Information<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-019265b344f3200d8393db862bb4a702",
+      "chunk-0a7810e8ce73a7a08f04a733b19cd6d6",
+      "chunk-f4e6733dd784eb93252da407d8d4b638",
+      "chunk-5f718e144b3348b94dc9ea83fb907d23",
+      "chunk-703362a785e7534d91ea11f87c34c745"
+    ],
+    "count": 5,
+    "update_time": 1774687451,
+    "_id": "Shipping Information<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Price Negotiation Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-019265b344f3200d8393db862bb4a702",
+      "chunk-e94484e616e61ed2cf21e9a3c742d8df"
+    ],
+    "count": 2,
+    "update_time": 1774686428,
+    "_id": "Price Negotiation Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Condition of Item<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-019265b344f3200d8393db862bb4a702"
+    ],
+    "count": 1,
+    "create_time": 1774685405,
+    "update_time": 1774685405,
+    "_id": "Condition of Item<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "卖家(AI客服)<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-dde57527770467e4cab324081b5c883e",
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084"
+    ],
+    "count": 3,
+    "update_time": 1774686401,
+    "_id": "卖家(AI客服)<SEP>对话记录"
+  },
+  "卖家(AI客服)<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-dde57527770467e4cab324081b5c883e",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5",
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 6,
+    "update_time": 1774687512,
+    "_id": "卖家(AI客服)<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "Price Negotiation Status<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-0a7810e8ce73a7a08f04a733b19cd6d6"
+    ],
+    "count": 1,
+    "create_time": 1774686283,
+    "update_time": 1774686283,
+    "_id": "Price Negotiation Status<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-0a7810e8ce73a7a08f04a733b19cd6d6",
+      "chunk-5f718e144b3348b94dc9ea83fb907d23",
+      "chunk-e559d1045ed43f56bb708b1ad1ee6b1c",
+      "chunk-5ea714adbe174af94393601b8bad1b96",
+      "chunk-e94484e616e61ed2cf21e9a3c742d8df",
+      "chunk-703362a785e7534d91ea11f87c34c745"
+    ],
+    "count": 6,
+    "update_time": 1774687451,
+    "_id": "Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Product Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-f4e6733dd784eb93252da407d8d4b638",
+      "chunk-cb938455b1c210d2ca1b81410219cac3"
+    ],
+    "count": 2,
+    "update_time": 1774687477,
+    "_id": "Product Condition<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Buyer<SEP>Conversation Record": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab",
+      "chunk-5f718e144b3348b94dc9ea83fb907d23",
+      "chunk-e559d1045ed43f56bb708b1ad1ee6b1c"
+    ],
+    "count": 3,
+    "update_time": 1774686414,
+    "_id": "Buyer<SEP>Conversation Record"
+  },
+  "90.06元<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab",
+      "chunk-5f718e144b3348b94dc9ea83fb907d23"
+    ],
+    "count": 2,
+    "update_time": 1774686393,
+    "_id": "90.06元<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Starbucks Elegant Pink Purple Romantic Mug<SEP>全新但无盒子": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab"
+    ],
+    "count": 1,
+    "create_time": 1774686380,
+    "update_time": 1774686380,
+    "_id": "Starbucks Elegant Pink Purple Romantic Mug<SEP>全新但无盒子"
+  },
+  "Can Ship for Free<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab"
+    ],
+    "count": 1,
+    "create_time": 1774686380,
+    "update_time": 1774686380,
+    "_id": "Can Ship for Free<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "No Price Reduction<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab"
+    ],
+    "count": 1,
+    "create_time": 1774686380,
+    "update_time": 1774686380,
+    "_id": "No Price Reduction<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Conversation Record<SEP>Shipping Information": {
+    "chunk_ids": [
+      "chunk-055d2da829cd0957db5c037845ea32ab",
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 2,
+    "update_time": 1774687467,
+    "_id": "Conversation Record<SEP>Shipping Information"
+  },
+  "星巴克优雅粉紫浪漫马克杯<SEP>是否包邮": {
+    "chunk_ids": [
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "星巴克优雅粉紫浪漫马克杯<SEP>是否包邮"
+  },
+  "星巴克优雅粉紫浪漫马克杯<SEP>是否降价": {
+    "chunk_ids": [
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "星巴克优雅粉紫浪漫马克杯<SEP>是否降价"
+  },
+  "星巴克优雅粉紫浪漫马克杯<SEP>是否全新": {
+    "chunk_ids": [
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "星巴克优雅粉紫浪漫马克杯<SEP>是否全新"
+  },
+  "商品ID<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2"
+    ],
+    "count": 1,
+    "create_time": 1774686388,
+    "update_time": 1774686388,
+    "_id": "商品ID<SEP>对话记录"
+  },
+  "商品价格<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-cf40cb546ec0a0f0b26d88535b031df2",
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 2,
+    "update_time": 1774687467,
+    "_id": "商品价格<SEP>对话记录"
+  },
+  "Price Negotiation<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-5f718e144b3348b94dc9ea83fb907d23"
+    ],
+    "count": 1,
+    "create_time": 1774686393,
+    "update_time": 1774686393,
+    "_id": "Price Negotiation<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "商品ID<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27",
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "商品ID<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "商品价格<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27",
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "商品价格<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "商品描述<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-3d63e11b33a71f19c9bcd5ce5db49084",
+      "chunk-3e8b5ca212cecfaa5a4bade7a062d237",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27",
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834"
+    ],
+    "count": 4,
+    "update_time": 1774687499,
+    "_id": "商品描述<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "Shipping Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-e559d1045ed43f56bb708b1ad1ee6b1c",
+      "chunk-5ea714adbe174af94393601b8bad1b96",
+      "chunk-e94484e616e61ed2cf21e9a3c742d8df",
+      "chunk-cb938455b1c210d2ca1b81410219cac3"
+    ],
+    "count": 4,
+    "update_time": 1774687477,
+    "_id": "Shipping Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Price Reduction Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-e559d1045ed43f56bb708b1ad1ee6b1c",
+      "chunk-cb938455b1c210d2ca1b81410219cac3"
+    ],
+    "count": 2,
+    "update_time": 1774687477,
+    "_id": "Price Reduction Policy<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Product Price<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-5ea714adbe174af94393601b8bad1b96",
+      "chunk-cb938455b1c210d2ca1b81410219cac3"
+    ],
+    "count": 2,
+    "update_time": 1774687477,
+    "_id": "Product Price<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "Conversation Record<SEP>Seller": {
+    "chunk_ids": [
+      "chunk-5ea714adbe174af94393601b8bad1b96"
+    ],
+    "count": 1,
+    "create_time": 1774686428,
+    "update_time": 1774686428,
+    "_id": "Conversation Record<SEP>Seller"
+  },
+  "Conversation Record<SEP>User ID": {
+    "chunk_ids": [
+      "chunk-5ea714adbe174af94393601b8bad1b96"
+    ],
+    "count": 1,
+    "create_time": 1774686428,
+    "update_time": 1774686428,
+    "_id": "Conversation Record<SEP>User ID"
+  },
+  "卖家(AI客服)<SEP>降价": {
+    "chunk_ids": [
+      "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5"
+    ],
+    "count": 1,
+    "create_time": 1774686439,
+    "update_time": 1774686439,
+    "_id": "卖家(AI客服)<SEP>降价"
+  },
+  "Buyer<SEP>User ID 2222114748954": {
+    "chunk_ids": [
+      "chunk-703362a785e7534d91ea11f87c34c745"
+    ],
+    "count": 1,
+    "create_time": 1774687451,
+    "update_time": 1774687451,
+    "_id": "Buyer<SEP>User ID 2222114748954"
+  },
+  "Conversation Record<SEP>Message Content": {
+    "chunk_ids": [
+      "chunk-703362a785e7534d91ea11f87c34c745"
+    ],
+    "count": 1,
+    "create_time": 1774687451,
+    "update_time": 1774687451,
+    "_id": "Conversation Record<SEP>Message Content"
+  },
+  "买家<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-cf2d317017ded7e3efcdd41560fc053c",
+      "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+    ],
+    "count": 2,
+    "update_time": 1774687493,
+    "_id": "买家<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "对话记录<SEP>是否包邮": {
+    "chunk_ids": [
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 1,
+    "create_time": 1774687467,
+    "update_time": 1774687467,
+    "_id": "对话记录<SEP>是否包邮"
+  },
+  "对话记录<SEP>是否降价": {
+    "chunk_ids": [
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 1,
+    "create_time": 1774687467,
+    "update_time": 1774687467,
+    "_id": "对话记录<SEP>是否降价"
+  },
+  "对话记录<SEP>是否全新": {
+    "chunk_ids": [
+      "chunk-cf2d317017ded7e3efcdd41560fc053c"
+    ],
+    "count": 1,
+    "create_time": 1774687467,
+    "update_time": 1774687467,
+    "_id": "对话记录<SEP>是否全新"
+  },
+  "Conversation Record<SEP>Price Reduction Policy": {
+    "chunk_ids": [
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 1,
+    "create_time": 1774687468,
+    "update_time": 1774687468,
+    "_id": "Conversation Record<SEP>Price Reduction Policy"
+  },
+  "Condition<SEP>Conversation Record": {
+    "chunk_ids": [
+      "chunk-e8bdec7444c742f678912ee2483522f2"
+    ],
+    "count": 1,
+    "create_time": 1774687468,
+    "update_time": 1774687468,
+    "_id": "Condition<SEP>Conversation Record"
+  },
+  "Seller<SEP>Starbucks Elegant Pink Purple Romantic Mug": {
+    "chunk_ids": [
+      "chunk-cb938455b1c210d2ca1b81410219cac3"
+    ],
+    "count": 1,
+    "create_time": 1774687477,
+    "update_time": 1774687477,
+    "_id": "Seller<SEP>Starbucks Elegant Pink Purple Romantic Mug"
+  },
+  "包邮<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 2,
+    "update_time": 1774687512,
+    "_id": "包邮<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "星巴克优雅粉紫浪漫马克杯<SEP>降价": {
+    "chunk_ids": [
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 2,
+    "update_time": 1774687513,
+    "_id": "星巴克优雅粉紫浪漫马克杯<SEP>降价"
+  },
+  "全新<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-3bcbf4c9c66188519d8d65c5c2c90834",
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 2,
+    "update_time": 1774687513,
+    "_id": "全新<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "2026-03-28 16:44:59<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 1,
+    "create_time": 1774687512,
+    "update_time": 1774687512,
+    "_id": "2026-03-28 16:44:59<SEP>对话记录"
+  },
+  "2208357686604<SEP>对话记录": {
+    "chunk_ids": [
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 1,
+    "create_time": 1774687512,
+    "update_time": 1774687512,
+    "_id": "2208357686604<SEP>对话记录"
+  },
+  "商品<SEP>星巴克优雅粉紫浪漫马克杯": {
+    "chunk_ids": [
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 1,
+    "create_time": 1774687513,
+    "update_time": 1774687513,
+    "_id": "商品<SEP>星巴克优雅粉紫浪漫马克杯"
+  },
+  "商品<SEP>商品描述": {
+    "chunk_ids": [
+      "chunk-fe58375e88ada599ca071c4e9b0b233d"
+    ],
+    "count": 1,
+    "create_time": 1774687513,
+    "update_time": 1774687513,
+    "_id": "商品<SEP>商品描述"
+  }
+}

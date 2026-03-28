@@ -1,0 +1,324 @@
+{
+  "chunk-ca2c06fc063fb0369931e0ec12e20522": {
+    "tokens": 139,
+    "content": "【对话记录】\n时间: 2026-03-28 16:09:42\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 你好\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ca2c06fc063fb0369931e0ec12e20522",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f3a357f62de6f22419b220743f1267f7",
+      "default:extract:e336a3976a6fa90e2433a288d6350d04"
+    ],
+    "create_time": 1774685382,
+    "update_time": 1774685393,
+    "_id": "chunk-ca2c06fc063fb0369931e0ec12e20522"
+  },
+  "chunk-69d0541a7702d1b1ae4b75a61b59d73e": {
+    "tokens": 139,
+    "content": "【对话记录】\n时间: 2026-03-28 16:09:47\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 在吗\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-69d0541a7702d1b1ae4b75a61b59d73e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:556301e65839c5cddab1b7dce91c1f4d",
+      "default:extract:74eba6789b6164654e565281db319542"
+    ],
+    "create_time": 1774685393,
+    "update_time": 1774685400,
+    "_id": "chunk-69d0541a7702d1b1ae4b75a61b59d73e"
+  },
+  "chunk-019265b344f3200d8393db862bb4a702": {
+    "tokens": 150,
+    "content": "【对话记录】\n时间: 2026-03-28 16:09:47\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 在的亲，喜欢的可以直接拍！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-019265b344f3200d8393db862bb4a702",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:074dde1a24c48505c9e12a73e5454c88",
+      "default:extract:f2e5257502c12fe6c506f845c956e5e1"
+    ],
+    "create_time": 1774685393,
+    "update_time": 1774685405,
+    "_id": "chunk-019265b344f3200d8393db862bb4a702"
+  },
+  "chunk-dde57527770467e4cab324081b5c883e": {
+    "tokens": 151,
+    "content": "【对话记录】\n时间: 2026-03-28 16:10:05\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 你好呀！需要了解一下马克杯吗？\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-dde57527770467e4cab324081b5c883e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:8b58d17ef2162e02f1ef640d41af4bf5",
+      "default:extract:f5613048943717d8bb20a0645448b1c0"
+    ],
+    "create_time": 1774685405,
+    "update_time": 1774685415,
+    "_id": "chunk-dde57527770467e4cab324081b5c883e"
+  },
+  "chunk-0a7810e8ce73a7a08f04a733b19cd6d6": {
+    "tokens": 147,
+    "content": "【对话记录】\n时间: 2026-03-28 16:24:34\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 能不能给我便宜一些 可以不可以 \n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0a7810e8ce73a7a08f04a733b19cd6d6",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:b349bb4fb4039de4cb0a3bc4bec6c0e6",
+      "default:extract:979f644369538af12b21c31f23a0ed7f"
+    ],
+    "create_time": 1774686274,
+    "update_time": 1774686283,
+    "_id": "chunk-0a7810e8ce73a7a08f04a733b19cd6d6"
+  },
+  "chunk-f4e6733dd784eb93252da407d8d4b638": {
+    "tokens": 158,
+    "content": "【对话记录】\n时间: 2026-03-28 16:24:43\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉，价格是固定的，90.06元无法降价哦~\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f4e6733dd784eb93252da407d8d4b638",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:cd1bcde992eb7e07e10c6daec7fdbf3a",
+      "default:extract:1a795242a559e4c99e333b0820e0661e"
+    ],
+    "create_time": 1774686283,
+    "update_time": 1774686294,
+    "_id": "chunk-f4e6733dd784eb93252da407d8d4b638"
+  },
+  "chunk-a48455a3fb14056b6a1fad147bce8bc3": {
+    "tokens": 144,
+    "content": "【对话记录】\n时间: 2026-03-28 16:25:01\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 就给我便宜一点吗\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a48455a3fb14056b6a1fad147bce8bc3",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:8855413875e214e8f482f9c867a4011d",
+      "default:extract:288e613b73c6f277029852fc971ac780"
+    ],
+    "create_time": 1774686301,
+    "update_time": 1774686370,
+    "_id": "chunk-a48455a3fb14056b6a1fad147bce8bc3"
+  },
+  "chunk-055d2da829cd0957db5c037845ea32ab": {
+    "tokens": 142,
+    "content": "【对话记录】\n时间: 2026-03-28 16:25:19\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 抹个零头\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-055d2da829cd0957db5c037845ea32ab",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:494a9eddb25905ccdc9c40965215a173",
+      "default:extract:3408546e65e4064b13d2d362e09a62c9"
+    ],
+    "create_time": 1774686370,
+    "update_time": 1774686380,
+    "_id": "chunk-055d2da829cd0957db5c037845ea32ab"
+  },
+  "chunk-cf40cb546ec0a0f0b26d88535b031df2": {
+    "tokens": 161,
+    "content": "【对话记录】\n时间: 2026-03-28 16:25:19\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉哦，价格是固定的，不能便宜一点呢！希望你能理解~\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cf40cb546ec0a0f0b26d88535b031df2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:29aed761013b962bd42c97e87948db66",
+      "default:extract:15156130351a040f61708c6210b971ff"
+    ],
+    "create_time": 1774686370,
+    "update_time": 1774686385,
+    "_id": "chunk-cf40cb546ec0a0f0b26d88535b031df2"
+  },
+  "chunk-5f718e144b3348b94dc9ea83fb907d23": {
+    "tokens": 146,
+    "content": "【对话记录】\n时间: 2026-03-28 16:25:56\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 我不理解 就给我便宜点\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5f718e144b3348b94dc9ea83fb907d23",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:14af6b1a7c256c39e05578db629eb971",
+      "default:extract:acb228245f6ab1ed024e24ac676b6f5a"
+    ],
+    "create_time": 1774686381,
+    "update_time": 1774686390,
+    "_id": "chunk-5f718e144b3348b94dc9ea83fb907d23"
+  },
+  "chunk-3d63e11b33a71f19c9bcd5ce5db49084": {
+    "tokens": 170,
+    "content": "【对话记录】\n时间: 2026-03-28 16:25:56\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 哈哈，亲，我的底线还真是坚挺呢！90.06元无法降价哦~希望能帮到你！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3d63e11b33a71f19c9bcd5ce5db49084",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:59d2b16f9be3bfcc61fec894b047b566",
+      "default:extract:908cfae8012fb80208dec84156f801ff"
+    ],
+    "create_time": 1774686388,
+    "update_time": 1774686401,
+    "_id": "chunk-3d63e11b33a71f19c9bcd5ce5db49084"
+  },
+  "chunk-e559d1045ed43f56bb708b1ad1ee6b1c": {
+    "tokens": 146,
+    "content": "【对话记录】\n时间: 2026-03-28 16:26:27\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 帮不到我 我就是要降价\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e559d1045ed43f56bb708b1ad1ee6b1c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:fa66a3975f5a41ddf8b99816c778250c",
+      "default:extract:5ef89d7464067c8248b7c11f5da4c1be"
+    ],
+    "create_time": 1774686402,
+    "update_time": 1774686411,
+    "_id": "chunk-e559d1045ed43f56bb708b1ad1ee6b1c"
+  },
+  "chunk-3e8b5ca212cecfaa5a4bade7a062d237": {
+    "tokens": 165,
+    "content": "【对话记录】\n时间: 2026-03-28 16:26:27\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉没办法满足你的要求呢，价格是固定的哦~希望你能找到合适的商品！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3e8b5ca212cecfaa5a4bade7a062d237",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:deefb988725942fcc4bbd1449b794a56",
+      "default:extract:01cdd65e821df82265e95c7536f371f4"
+    ],
+    "create_time": 1774686402,
+    "update_time": 1774686416,
+    "_id": "chunk-3e8b5ca212cecfaa5a4bade7a062d237"
+  },
+  "chunk-e94484e616e61ed2cf21e9a3c742d8df": {
+    "tokens": 139,
+    "content": "【对话记录】\n时间: 2026-03-28 16:26:48\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 哼\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e94484e616e61ed2cf21e9a3c742d8df",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:833b560d6e699eb9217b43e0096010ef",
+      "default:extract:ba52ea6f3d30a6c824e5a4434d7aaba1"
+    ],
+    "create_time": 1774686417,
+    "update_time": 1774686427,
+    "_id": "chunk-e94484e616e61ed2cf21e9a3c742d8df"
+  },
+  "chunk-5ea714adbe174af94393601b8bad1b96": {
+    "tokens": 172,
+    "content": "【对话记录】\n时间: 2026-03-28 16:26:48\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 亲，我理解你的心情啊，价格确实是固定的，希望你能找到心仪的商品！有什么其他问题可以问我哦~\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5ea714adbe174af94393601b8bad1b96",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0ded2e26fe65af71dae8ecbe46444730",
+      "default:extract:f2f66cf63f43a1228594c488a00c2361"
+    ],
+    "create_time": 1774686417,
+    "update_time": 1774686425,
+    "_id": "chunk-5ea714adbe174af94393601b8bad1b96"
+  },
+  "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5": {
+    "tokens": 160,
+    "content": "【对话记录】\n时间: 2026-03-28 16:27:08\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉，真的不接受降价哦，90.06元是我底线！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c6b6a3d0f69ff4573aea3a82c9131d5",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:39ef37198ab9b795399c7de2963ce83c",
+      "default:extract:1579655f8f38ba98fda84c5d0b317d88"
+    ],
+    "create_time": 1774686428,
+    "update_time": 1774686436,
+    "_id": "chunk-4c6b6a3d0f69ff4573aea3a82c9131d5"
+  },
+  "chunk-703362a785e7534d91ea11f87c34c745": {
+    "tokens": 142,
+    "content": "【对话记录】\n时间: 2026-03-28 16:43:54\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 东西还在不\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-703362a785e7534d91ea11f87c34c745",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e401163cec64418f1c7c772b72405fc7",
+      "default:extract:cd20acdea9bcad0899cc91761076661e"
+    ],
+    "create_time": 1774687434,
+    "update_time": 1774687447,
+    "_id": "chunk-703362a785e7534d91ea11f87c34c745"
+  },
+  "chunk-e8bdec7444c742f678912ee2483522f2": {
+    "tokens": 157,
+    "content": "【对话记录】\n时间: 2026-03-28 16:43:54\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 在的亲，喜欢的可以直接拍！有什么我可以帮你的吗？\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e8bdec7444c742f678912ee2483522f2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d1a8d944353ba96bcc7e21f3f76e04b3",
+      "default:extract:5bdabc521e5a89a46d0c5cbcc248000a"
+    ],
+    "create_time": 1774687451,
+    "update_time": 1774687462,
+    "_id": "chunk-e8bdec7444c742f678912ee2483522f2"
+  },
+  "chunk-cf2d317017ded7e3efcdd41560fc053c": {
+    "tokens": 140,
+    "content": "【对话记录】\n时间: 2026-03-28 16:44:05\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 能优惠吗\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cf2d317017ded7e3efcdd41560fc053c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:c61996d88d76553862a309517cb8cb54",
+      "default:extract:98de0fed8f363a8253d9012a703f9442"
+    ],
+    "create_time": 1774687451,
+    "update_time": 1774687464,
+    "_id": "chunk-cf2d317017ded7e3efcdd41560fc053c"
+  },
+  "chunk-cb938455b1c210d2ca1b81410219cac3": {
+    "tokens": 158,
+    "content": "【对话记录】\n时间: 2026-03-28 16:44:05\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉，价格是90.06元，无法优惠哦！感谢理解！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cb938455b1c210d2ca1b81410219cac3",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6b7afc8203b7d70c4da59f96faa6b8ca",
+      "default:extract:b878a755950592e59c434005b9695d74"
+    ],
+    "create_time": 1774687467,
+    "update_time": 1774687476,
+    "_id": "chunk-cb938455b1c210d2ca1b81410219cac3"
+  },
+  "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27": {
+    "tokens": 145,
+    "content": "【对话记录】\n时间: 2026-03-28 16:44:23\n会话ID: 59093579148\n用户ID: 2222114748954\n商品ID: 1028460358996\n角色: 买家\n消息内容: 你之前说可以优惠的啊\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-823038d3bfdfc65bc3f33f2f3dfe1a27",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:15ba444118267920e8b639f6756f8e65",
+      "default:extract:cd0de1e3ded42f36824f39c680e8a748"
+    ],
+    "create_time": 1774687477,
+    "update_time": 1774687489,
+    "_id": "chunk-823038d3bfdfc65bc3f33f2f3dfe1a27"
+  },
+  "chunk-3bcbf4c9c66188519d8d65c5c2c90834": {
+    "tokens": 172,
+    "content": "【对话记录】\n时间: 2026-03-28 16:44:23\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 抱歉，如果之前有误解，真心抱歉！目前这个价格是我的底线，无法再优惠了。希望你能理解！\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-3bcbf4c9c66188519d8d65c5c2c90834",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:31d6e95304f0d43f7b93480efa446d47",
+      "default:extract:395616ba41b081500b13540cf0dc93f6"
+    ],
+    "create_time": 1774687477,
+    "update_time": 1774687490,
+    "_id": "chunk-3bcbf4c9c66188519d8d65c5c2c90834"
+  },
+  "chunk-fe58375e88ada599ca071c4e9b0b233d": {
+    "tokens": 151,
+    "content": "【对话记录】\n时间: 2026-03-28 16:44:59\n会话ID: 59093579148\n用户ID: 2208357686604\n商品ID: 1028460358996\n角色: 卖家(AI客服)\n消息内容: 在的亲，喜欢的可以直接拍哦~\n相关商品: 星巴克优雅粉紫浪漫马克杯\n商品价格: 90.06元\n商品描述: 物品名称：星巴克优雅粉紫浪漫马克杯\n价格：90.06\n是否包邮：可以包邮\n是否降价：不接受降价\n是否全新：全新但无盒子",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fe58375e88ada599ca071c4e9b0b233d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:29ffe5f5a9151a78329e924fb2640a17",
+      "default:extract:1a48ee88475bd5f0bba776927e62f27e"
+    ],
+    "create_time": 1774687499,
+    "update_time": 1774687512,
+    "_id": "chunk-fe58375e88ada599ca071c4e9b0b233d"
+  }
+}

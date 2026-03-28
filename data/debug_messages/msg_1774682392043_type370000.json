@@ -1,0 +1,30 @@
+{
+  "_manual_parse": true,
+  "_strings": [
+    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":true,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1769746754925,\"arouseChatScriptInfo\":[{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}},{\"chatScrip\":\"",
+    "\",\"chatScripStrategy\":\"shading_opening\",\"argInfo\":{\"args\":{\"topic_title\":\"shading_opening\",\"session_id\":58003729629,\"content\":\"",
+    "\"},\"arg1\":\"ChatTopic\"}}],\"chatGuidance\":{\"txt\":\"",
+    "\",\"chatGuidanceIcon\":\"https://g.alicdn.com/eva-assets/900b80896b0a4a3274c8990dc76a3906/0.0.1/tmp/c839cfd/c839cfd.json\",\"icon\":\"https://g.alicdn.com/eva-assets/af2906b34860c1f3f5b1e5e5c671a966/0.0.1/tmp/a3f8232/a3f8232.json?spm=a21714.homepage.0.0.4e0a3fe0jlOeYy&file=a3f8232.json\"}}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1769746754000,\"extensions\":{\"squadId_2208357686604\":\"201451106\",\"extUserType\":\"0\",\"itemTitle\":\"Suno ",
+    "\",\"extUserId\":\"2208357686604\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i3/421807269/O1CN01UriAyo23ZG7bGOfCm_!!4611686018427380901-53-xy_item.heic\",\"squadName_421807269\":\"Suno ",
+    "\",\"ownerUserType\":\"0\",\"squadId_421807269\":\"1015760381512\",\"squadName_2208357686604\":\"",
+    "\",\"itemId\":\"1015760381512\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"201451106\\\"}\",\"itemSellerId\":\"421807269\",\"ownerUserId\":\"421807269\"},\"groupOwnerId\":\"421807269\",\"sessionId\":\"58003729629\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"58003729629\"}"
+  ]
+}

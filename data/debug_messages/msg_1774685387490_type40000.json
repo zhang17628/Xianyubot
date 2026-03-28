@@ -1,0 +1,44 @@
+{
+  "1": {
+    "1": {
+      "1": "2222114748954@goofish"
+    },
+    "2": "59093579148@goofish",
+    "3": "4031588907101.PNM",
+    "4": 0,
+    "5": 1774685356822,
+    "6": {
+      "1": 101,
+      "3": {
+        "1": "",
+        "2": "在吗",
+        "3": "",
+        "4": 1,
+        "5": "{\"atUsers\":[],\"contentType\":1,\"text\":{\"text\":\"在吗\"}}"
+      }
+    },
+    "7": 2,
+    "8": 1,
+    "9": 0,
+    "10": {
+      "_appVersion": "7.19.90",
+      "_platform": "android",
+      "bizTag": "{\"sourceId\":\"S:1\",\"messageId\":\"ace42985c9a3499ca352d45ba6455012\"}",
+      "clientIp": "39.144.144.20",
+      "detailNotice": "在吗",
+      "extJson": "{\"quickReply\":\"1\",\"messageId\":\"ace42985c9a3499ca352d45ba6455012\",\"tag\":\"u\"}",
+      "port": "59463",
+      "reminderContent": "在吗",
+      "reminderNotice": "发来一条新消息",
+      "reminderTitle": "x***1",
+      "reminderUrl": "fleamarket://message_chat?itemId=1028460358996&peerUserId=2222114748954&sid=59093579148&messageId=ace42985c9a3499ca352d45ba6455012&adv=no",
+      "senderUserId": "2222114748954",
+      "senderUserType": "0",
+      "sessionType": "1"
+    },
+    "12": 1
+  },
+  "3": {
+    "needPush": "true"
+  }
+}

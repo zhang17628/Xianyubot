@@ -1,0 +1,44 @@
+{
+  "1": {
+    "1": {
+      "1": "2222114748954@goofish"
+    },
+    "2": "59093579148@goofish",
+    "3": "4027664377218.PNM",
+    "4": 0,
+    "5": 1774686308402,
+    "6": {
+      "1": 101,
+      "3": {
+        "1": "",
+        "2": "抹个零头",
+        "3": "",
+        "4": 1,
+        "5": "{\"atUsers\":[],\"contentType\":1,\"text\":{\"text\":\"抹个零头\"}}"
+      }
+    },
+    "7": 2,
+    "8": 1,
+    "9": 0,
+    "10": {
+      "_appVersion": "7.19.90",
+      "_platform": "android",
+      "bizTag": "{\"sourceId\":\"S:1\",\"messageId\":\"474b4a56d06e426e80556ac80977931c\"}",
+      "clientIp": "39.144.144.20",
+      "detailNotice": "抹个零头",
+      "extJson": "{\"quickReply\":\"1\",\"messageId\":\"474b4a56d06e426e80556ac80977931c\",\"tag\":\"u\"}",
+      "port": "59463",
+      "reminderContent": "抹个零头",
+      "reminderNotice": "发来一条新消息",
+      "reminderTitle": "x***1",
+      "reminderUrl": "fleamarket://message_chat?itemId=1028460358996&peerUserId=2222114748954&sid=59093579148&messageId=474b4a56d06e426e80556ac80977931c&adv=no",
+      "senderUserId": "2222114748954",
+      "senderUserType": "0",
+      "sessionType": "1"
+    },
+    "12": 1
+  },
+  "3": {
+    "needPush": "true"
+  }
+}

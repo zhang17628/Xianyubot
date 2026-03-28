@@ -1,0 +1,21 @@
+# ========== 核心依赖 ==========
+httpx==0.28.1
+openai==2.26.0
+python-dotenv==1.2.2
+Requests==2.32.5
+websockets==16.0
+
+# ========== LLM & Agent ==========
+langchain_openai==1.1.11
+
+# ========== RAG & 向量搜索 ==========
+lightrag_hku==1.4.10
+numpy==2.4.3
+sentence_transformers==5.3.0
+FlagEmbedding>=1.2.0  # Reranker 与 BGE Embedding 模型
+
+# ========== 数据处理 ==========
+msgpack_python==0.5.6
+
+# ========== 日志与监控 ==========
+loguru==0.7.3

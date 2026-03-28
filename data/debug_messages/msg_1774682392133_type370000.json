@@ -1,0 +1,9 @@
+{
+  "_manual_parse": true,
+  "_strings": [
+    "{\"chatType\":1,\"incrementType\":1,\"operation\":{\"content\":{\"contentType\":8,\"sessionArouse\":{\"memberFlags\":0,\"needKeyBoard\":false,\"sessionArouseInfo\":{\"residentFunctions\":[],\"arouseTimeStamp\":1770453741592,\"arouseChatScriptInfo\":[]}}},\"receiverIds\":[\"2208357686604\"],\"sessionInfo\":{\"createTime\":1770453741000,\"extensions\":{\"squadId_2208357686604\":\"201960402\",\"squadId_271373240\":\"1021497868828\",\"extUserType\":\"0\",\"itemTitle\":\"",
+    "\",\"squadName_271373240\":\"",
+    "\",\"extUserId\":\"2208357686604\",\"itemMainPic\":\"https://img.alicdn.com/bao/uploaded/i2/271373240/O1CN01vvj0U61ZnyNKTjRwu_!!4611686018427384760-53-xy_item.heic\",\"ownerUserType\":\"0\",\"squadName_2208357686604\":\"",
+    "\",\"itemId\":\"1021497868828\",\"itemFeatures\":\"{\\\"idle_cat_leaf\\\":\\\"201960402\\\"}\",\"itemSellerId\":\"271373240\",\"ownerUserId\":\"271373240\"},\"groupOwnerId\":\"271373240\",\"sessionId\":\"58070989137\",\"sessionType\":1,\"type\":1}},\"sessionId\":\"58070989137\"}"
+  ]
+}
